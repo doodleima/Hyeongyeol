@@ -12,4 +12,4 @@
 
 - ✈ Language courses(2019, winter semester): Sydney, New South Wales, Australia
 - 📎 Student Intern: S2W Lab Korea
-- 😅 Etc-Drawing: **https://www.instagram.com/cuti2crab/**
+- 😅 Etc-Drawing: You can see some pictures here **https://www.instagram.com/cuti2crab/**
