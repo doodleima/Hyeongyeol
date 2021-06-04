@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hyeongyeol</h1>
 <h3 align="center">An engineer who is constantly studying.</h3>
 
-- 🌱 I’m currently learning **Machine Learning specialized in Computer Vision**
-- 💬 Ask me about **Web Crawling, ML/DL,**
+- 🌱 I’m currently learning **Machine Learning specialized in Computer Vision Apps(Services)**
+- 💬 Ask me about **Web Crawling, Machine Learning, Natural Language Processing**
 - 📫 How to reach me **doodleima@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,6 +10,8 @@
 
 <h3 align="left">Experience:</h3>
 
-- ✈ Language courses(2019, winter semester): Sydney, New South Wales, Australia
-- 📎 Student Intern: S2W Lab Korea
-- 😅 Etc-Drawing: You can see some pictures here **https://www.instagram.com/cuti2crab/**
+
+- 🧪 Student Researcher(2018-2020): information security Lab, Department of Computer Engineering, Chosun University
+- ✈ Language courses(2020): Sydney, New South Wales, Australia
+- 📎 Student Intern(2020): S2W Lab Korea
+- 😅 Hobby(Drawing): You can see some pictures drawn by me here **https://www.instagram.com/cuti2crab/**
