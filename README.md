@@ -12,6 +12,6 @@
 
 
 - 🧪 Student Researcher(2018-2020): information security Lab, Department of Computer Engineering, Chosun University
-- ✈ Language courses(2020): Sydney, New South Wales, Australia
+- ✈ Language Courses(2020): Sydney, New South Wales, Australia
 - 📎 Student Intern(2020): S2W Lab Korea
 - 😅 Hobby(Drawing): You can see some pictures drawn by me here **https://www.instagram.com/cuti2crab/**
