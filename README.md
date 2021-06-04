@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hyeongyeol</h1>
 <h3 align="center">An engineer who is constantly studying.</h3>
 
-- 🌱 I’m currently learning **Machine Learning specialized in Computer Vision Apps(Services)**
+- 🌱 I’m currently learning **Machine Learning specialized in Computer Vision Apps&Services**
 - 💬 Ask me about **Web Crawling, Machine Learning, Natural Language Processing**
 - 📫 How to reach me **doodleima@naver.com**
 
