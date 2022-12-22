@@ -2,7 +2,7 @@
 <h3 align="center">An engineer who is constantly studying.</h3>
 
 - 🌱 I’m currently learning **Machine Learning specialized in Computer Vision Apps&Services**
-- 💬 Ask me about **Web Crawling, Machine Learning, Natural Language Processing**
+- 💬 Ask me about **Web Crawling, Machine Learning / Deep Learning, Natural Language Processing**
 - 📫 How to reach me **doodleima@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +14,5 @@
 - 🧪 Student Researcher(2018-2020): Information Security Lab, Department of Computer Engineering, Chosun University
 - ✈ Language Courses(2020): Sydney, New South Wales, Australia
 - 📎 Student Intern(2020): S2W Lab Korea
-- 🌌 Hobby(Drawing): You can see some pictures drawn by me here **https://www.instagram.com/cuti2crab/**
+- 
+- 🌌 Hobby(Drawing): You can see some pictures here (drawn by me!) **https://www.instagram.com/cuti2crab/**
