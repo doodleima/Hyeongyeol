@@ -9,7 +9,7 @@
 <br>
 <h3 align="center">How to reach me</h3>
 
-<a href="mailto:dlagudduf13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlagudduf13@gmail.com"/></a> 
+<a href="mailto:dlagudduf13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlagudduf13@gmail.com"/></a> 
 <a href="https://www.instagram.com/cuti2crab/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <h3 align="center">Stacks</h3>
