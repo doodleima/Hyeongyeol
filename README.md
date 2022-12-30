@@ -37,12 +37,13 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
-</div>
-<br><br>
+</div><br>
+
+---
 <h3 align="left">Experiences</h3>
 
-- 📎 Student Intern ('20):  S2W Lab Korea
-- ✈ Language Courses ('20):  Sydney, New South Wales, Australia
-- ✈ Work abroad ('21-'22):  Chicago, illinois, US
-- 🧪 Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
-- 🧪 Work ('21-Currently Working):  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
+- Student Intern ('20):  S2W Lab Korea
+- Language Courses ('20):  Sydney, New South Wales, Australia
+- Work abroad ('21-'22):  Chicago, illinois, US
+- Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
+- Work ('21-Currently Working):  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
