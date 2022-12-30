@@ -1,19 +1,48 @@
 <h1 align="center">Hi 👋, I'm Hyeongyeol Lim</h1>
 <h3 align="center">An engineer who is constantly studying.</h3>
 
-- 🌱 I’m currently learning **Machine Learning specialized in Computer Vision Apps&Services**
-- 💬 Ask me about **Web Crawling, Machine Learning / Deep Learning, Natural Language Processing**
-- 📫 How to reach me **doodleima@naver.com** or **https://www.instagram.com/cuti2crab/ (DM)**
+<div align="center">
+  
+🌱 I’m currently working **Machine Learning specialized in Computer Vision Apps & Services**<br>
+💬 Ask me about **Machine Learning / Deep Learning(Vision & MLP), Web Crawling**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
+<h3 align="center">How to reach me</h3>
 
-<h3 align="left">Experience:</h3>
+<a href="mailto:dlagudduf13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlagudduf13@gmail.com"/></a> 
+<a href="https://www.instagram.com/cuti2crab/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+<h3 align="center">Stacks</h3>
 
-- 📎 Student Intern(2020): S2W Lab Korea
-- ✈ Language Courses(2020): Sydney, New South Wales, Australia
-- ✈ Work abroad(2021-2022): Chicago, illinois, US
-- 🧪 Student Researcher(2018-2020): Information Security Lab, Department of Computer Engineering, Chosun University
-- 🧪 Work (2021-NOW): PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
-- 🌌 Hobby(Drawing): You can see the pictures in the Instagram URL above :)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+
+<h3 align="center">Tools</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
+
+</div>
+<br><br>
+<h3 align="left">Experiences</h3>
+
+- 📎 Student Intern ('20):  S2W Lab Korea
+- ✈ Language Courses ('20):  Sydney, New South Wales, Australia
+- ✈ Work abroad ('21-'22):  Chicago, illinois, US
+- 🧪 Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
+- 🧪 Work ('21-Currently Working):  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
