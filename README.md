@@ -46,4 +46,6 @@
 - Language Courses ('20):  Sydney, New South Wales, Australia
 - Work abroad ('21-'22):  Chicago, illinois, US
 - Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
-- Work ('21-Currently Working):  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
+- Work
+  1. '21.5. ~ '23.8.:  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
+  2. '23.9. ~ : DEEPNOID, AI Research Team 2, Medical AI Business Division, Seoul
