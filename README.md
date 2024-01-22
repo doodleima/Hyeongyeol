@@ -4,7 +4,7 @@
 <div align="center">
   
 🌱 I’m currently working **Machine Learning specialized in Computer Vision Apps & Services**<br>
-💬 Ask me about **Machine Learning / Deep Learning(Vision & MLP), Web Crawling**
+💬 Ask me about **Machine Learning / Deep Learning(Vision & NLP) / Medical Image Processing**
 
 <br>
 <h3 align="center">How to reach me</h3>
