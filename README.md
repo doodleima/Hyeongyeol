@@ -48,4 +48,4 @@
 - Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
 - Work
   1. '21.5. ~ '23.8.:  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
-  2. '23.9. ~ : DEEPNOID, AI Research Team 2, Medical AI Business Division, Seoul
+  2. '23.9. ~ : DEEPNOID. Inc, AI Research Team 2, AI R&D Centre, Seoul
